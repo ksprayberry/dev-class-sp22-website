@@ -13,10 +13,11 @@ import carnell from "./challenger-carnell.jpeg";
 import vivp from "./vivian-p.jpeg";
 
 // design
-import jin from "./jin.png";
+import kayla from "./kayla.jpeg";
 import christina from "./christina.jpeg";
 import michelle from "./michelle.png";
 import emily from "./emily.jpeg";
+
 
 // backend
 import kidus from "./kidus.jpeg";
@@ -65,8 +66,8 @@ export const marketing = [
 
 export const design = [
     {
-        image: jin,
-        fact: 'Lorem ipsum dolor'
+        image: kayla,
+        fact: 'I like to crack bones.'
     },
     {
         image: christina,
